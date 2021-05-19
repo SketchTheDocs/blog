@@ -1,0 +1,12 @@
+
+[en]
+  title = "SketchTheDocs"
+  LanguageName = "English"
+  weight = 1
+
+# --- Commented Out. Leaving it here for future examples of localization
+#[pt]
+#  title = "Claridade" # just for the sake of showing this is possible
+#  LanguageName = "Português"
+ # weight = 2
+  

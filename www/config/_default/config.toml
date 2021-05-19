@@ -1,0 +1,31 @@
+baseURL = "http://sketchthedocs.dev/blog"
+languageCode = "en-us"
+title = "Sketch The Docs"
+theme = "hugo-clarity"
+
+# ---- Build target directory defined
+publishdir = "../docs" 
+
+# ------------------------------------------------------------------
+# Customizations for hugo-clarity theme
+# See: https://github.com/chipzoller/hugo-clarity#configuration
+# ------------------------------------------------------------------
+
+author = "Nitya Narasimhan (@nitya)"
+copyright = "Copyright © 2021-Present, Nitya Narasimhan; all rights reserved."
+paginate = 10
+canonifyurls = true
+
+defaultContentLanguage = "en"
+# [languages]
+# config/_default/languages.toml
+
+#disqusShortname = ""
+
+# [menus]
+# config/_default/menus/menu.xx.toml
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
