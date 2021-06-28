@@ -7,13 +7,13 @@ toc: true
 
 ### Table Of Contents
 
- * [Articles > Blogs & Publications](#articles)
- * [Tweets > SketchTheDocs](#tweets)
- * [Videos > HelloWorld #ABSee](#hello-world)
+ * [1 | Articles](#articles) > Blogs & Publications
+ * [2 | Tweets](#tweets) > SketchTheDocs
+ * [3 | Videos](#hello-world)  > HelloWorld #ABSee
 
 ---
 
-### ARTICLES
+### 1 | Articles
 
  * **Jun 27, 2021** - (Site) [SketchTheDocs.dev](https://sketchthedocs.dev) launched
  * **Jun 23, 2021** - (Blog) [Visual Guide: Computer Vision](https://dev.to/azure/a-visual-guide-to-computer-vision-in-azure-ddo), _dev.to_
@@ -34,7 +34,7 @@ toc: true
 
 ---
 
-### TWEETS 
+### 2 | Tweets
 
 Tweets contain links to hi-res images, 30-sec timelapse videos & posts.
 
@@ -52,17 +52,27 @@ Tweets contain links to hi-res images, 30-sec timelapse videos & posts.
 
 ---
 
-### HELLO WORLD 
+### 3 | Videos
 
-Hello World is a daily show that airs on [Microsoft Learn TV](https://aka.ms/learntv). I debuted as a co-host for the Thursday edition on Season 1, and launched [#ABSee](https://aka.ms/visual/ab-see) as a regular interactive segment featuring visual puzzles to build tech IQ.
+#### Hello World, A-B-See
 
-> Season 1 | _Mar-Jun 2021_
+Hello World is a daily show that airs on [Microsoft Learn TV](https://aka.ms/learntv). It [launched Feb 22](https://channel9.msdn.com/Shows/Hello-World/Hello-World-Monday-Feb-22) and I began co-hosting the Thursday edition [on Mar 11](https://channel9.msdn.com/Shows/Hello-World/Hello-World-Thursday-March-11-2021). On [Mar 25](https://channel9.msdn.com/Shows/Hello-World/Hello-World-Thursday-March-25-2021) I debuted the A-B-See segment, the earliest one to engage guests in an interactive challenge to build tech IQ by presenting them with a number of visual puzzles (each featuring a concept, service, or person) to solve in five minutes. 
 
- * **Apr 08, 2021** - #005 [ABSee: Episode 03](https://channel9.msdn.com/Shows/Hello-World/Hello-World-April-8-2021)
- * **Apr 01, 2021** - #004 [ABSee: Episode 02](https://channel9.msdn.com/Shows/Hello-World/Hello-World-April-1-2021)
- * **Mar 25, 2021** - #003 [ABSee: Episode 01](https://channel9.msdn.com/Shows/Hello-World/Hello-World-Thursday-March-25-2021)
- * **Mar 18, 2021** - #002 [ABSee: Show Teaser](https://channel9.msdn.com/Shows/Hello-World/Hello-World-Thursday-March-18-2021)
- * **Mar 11, 2021** - #001 [Debut: Thursday Co-Host](https://channel9.msdn.com/Shows/Hello-World/Hello-World-Thursday-March-11-2021)
+I hosted 14 episodes and completed [36 puzzles](https://sketchthedocs.github.io/AB-See/puzzles/) in `Season 1`.
 
+ 1. **Mar 11, 2021** -- [Debut: Thursday Co-Host](https://channel9.msdn.com/Shows/Hello-World/Hello-World-Thursday-March-11-2021) 
+ 2. **Mar 18, 2021** -- [Teaser: HelloWorld #ABSee](https://channel9.msdn.com/Shows/Hello-World/Hello-World-Thursday-March-18-2021)
+ 3. **Mar 25, 2021** -- [ABSee Episode:01](https://channel9.msdn.com/Shows/Hello-World/Hello-World-Thursday-March-25-2021)
+ 4. **Apr 01, 2021** -- [ABSee Episode: 02](https://channel9.msdn.com/Shows/Hello-World/Hello-World-April-1-2021)
+ 5. **Apr 08, 2021** -- [ABSee Episode: 03](https://channel9.msdn.com/Shows/Hello-World/Hello-World-April-8-2021)
+ 6. **Apr 15, 2021** -- [ABSee Episode: 04](https://channel9.msdn.com/Shows/Hello-World/Hello-World-April-15-2021)
+ 7. **Apr 22, 2021** -- [Earth Day: #VisualGreenEarth](https://channel9.msdn.com/Shows/Hello-World/Hello-World-April-22-2021-Special-Hello-Earth)
+ 8. **Apr 29, 2021** -- [ABSee Episode: 05](https://channel9.msdn.com/Shows/Hello-World/Hello-World-Thursday-April-29-2021)
+ 9. **May 06, 2021** -- [ABSee Episode: 06](https://channel9.msdn.com/Shows/Hello-World/Hello-World-Thursday-May-6-2021)
+ 10. **May 13, 2021** -- [ABSee Episode: 07](https://channel9.msdn.com/Shows/Hello-World/Hello-World-Thursday-May-13-2021)
+ 11. **May 27, 2021** -- [ABSee Episode: 08](https://channel9.msdn.com/Shows/Hello-World/Hello-World-Thursday-May-27-2021-Special-1-hour)
+ 12. **Jun 03, 2021** -- [ABSee Episode: 09](https://channel9.msdn.com/Shows/Hello-World/Hello-World-Thursday-June-3-2021)
+ 13. **Jun 10, 2021** -- [ABSee Episode: 10](https://channel9.msdn.com/Shows/Hello-World/Hello-World-Thursday-June-10-2021)
+ 14. **Jun 17, 2021** -- [ABSee Episode: 11](https://channel9.msdn.com/Shows/Hello-World/Hello-World-Thursday-June-17-2021) -- `Season 1: Finale`
 
 ---

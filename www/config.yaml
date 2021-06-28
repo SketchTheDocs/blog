@@ -89,5 +89,5 @@ markup:
     style: monokai
     tabWidth: 4
   tableOfContents:
-    endLevel: 6
+    endLevel: 3
     startLevel: 2

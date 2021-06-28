@@ -13,7 +13,7 @@
       <pubDate>Sun, 27 Jun 2021 22:30:39 -0400</pubDate>
       
       <guid>https://sketchthedocs.dev/activity/</guid>
-      <description>Table Of Contents  Articles &amp;gt; Blogs &amp;amp; Publications Tweets &amp;gt; SketchTheDocs Videos &amp;gt; HelloWorld #ABSee   ARTICLES  Jun 27, 2021 - (Site) SketchTheDocs.dev launched Jun 23, 2021 - (Blog) Visual Guide: Computer Vision, dev.to Jun 22, 2021 - (Blog) Visual Guide: Computer Vision, A Cloud Guru Jun 10, 2021 - (Site) Hello World #ABSee launched Jun 08, 2021 - (Logo) #JulyOT Blog, Tech Community May 24, 2021 - (Blog) Visual Guide: Azure Data Factory, dev.</description>
+      <description>Table Of Contents  1 | Articles &amp;gt; Blogs &amp;amp; Publications 2 | Tweets &amp;gt; SketchTheDocs 3 | Videos &amp;gt; HelloWorld #ABSee   1 | Articles  Jun 27, 2021 - (Site) SketchTheDocs.dev launched Jun 23, 2021 - (Blog) Visual Guide: Computer Vision, dev.to Jun 22, 2021 - (Blog) Visual Guide: Computer Vision, A Cloud Guru Jun 10, 2021 - (Site) Hello World #ABSee launched Jun 08, 2021 - (Logo) #JulyOT Blog, Tech Community May 24, 2021 - (Blog) Visual Guide: Azure Data Factory, dev.</description>
     </item>
     
     <item>
@@ -27,12 +27,13 @@
     </item>
     
     <item>
-      <title>Hello World</title>
+      <title>Hello World! Let&#39;s Draw!</title>
       <link>https://sketchthedocs.dev/hello-world/</link>
       <pubDate>Sun, 27 Jun 2021 18:22:52 -0400</pubDate>
       
       <guid>https://sketchthedocs.dev/hello-world/</guid>
-      <description>Test Test Test </description>
+      <description>Over the past year, I&amp;rsquo;ve been on a journey of exploration and experimentation of visual storytelling in tech contexts. This is the site I&amp;rsquo;ve always wanted to have, to share those learnings and outcomes! Welcome - and I hope you will join me and build your own visual storytelling projects and learning paths.
+Backstory I&amp;rsquo;ve always taking handwritten notes to capture and remember things I&amp;rsquo;ve read and learned - but it wasn&amp;rsquo;t till I started attending developer conferences that I saw this as both a self-care tactic and a networking tool.</description>
     </item>
     
   </channel>

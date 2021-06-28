@@ -11,13 +11,13 @@ draft: false
 
 ## Visual Storytelling
 
-Visual storytelling is about using illustrations, colors, fonts and composition, to present information in ways that can support visual and visual-spatial learners. I think of it in two context. First, as a _communication skill_ like public speaking or technical writing, allowing you to convey ideas using visual cues and vocabulary. Second, as a _content creation tool_, enabling you to use those skills to learn, or teach, complex concepts to diverse audiences. 
+Visual storytelling is about using illustrations, colors, fonts and composition, to present information in ways that can support visual and visual-spatial learners. I view it in two contexts. First, as a _communication skill_ (like public speaking or technical writing) that lets you convey complex ideas using visual cues and vocabulary. Second, as a _content creation tool_ that lets you to use those skills to learn, or teach, complex concepts to diverse audiences. 
 
-A visual storytelling toolkit can include:
+A visual storytelling toolkit can include many skills like:
 
-  * [Doodling](http://sunnibrown.com/the-doodle-revolution) | developing a visual vocabulary and consistent style to enhance your spoken and written content or communications.
+  * [Doodling](http://sunnibrown.com/the-doodle-revolution) | developing a visual vocabulary and consistent sketching style that enhances spoken or written content and communications.
   
-  * [Sketchnoting](https://creately.com/blog/education/visual-note-taking/) | using those skills to capture, summarize, and synthesize, information visually - potentially in real time.
+  * [Sketchnoting](https://creately.com/blog/education/visual-note-taking/) | using those skills to capture, summarize, and synthesize, large amounts of information into a  visual, in real-time. 
   
   * [Anthropomorphism](https://explain.ninja/blog/6-tips-for-effective-animated-video-storytelling/) | adding human traits to visual objects, employing a known storytelling device to build connection with audiences.
 
