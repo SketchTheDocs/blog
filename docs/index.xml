@@ -1,28 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SketchTheDocs - Visual Storytelling &amp; Tech</title>
-    <link>https://blog.sketchthedocs.dev/</link>
-    <description>Recent content on SketchTheDocs - Visual Storytelling &amp; Tech</description>
+    <title>The #SketchTheDocs Project on SketchTheDocs - Visual Storytelling &amp; Tech</title>
+    <link>https://sketchthedocs.dev/</link>
+    <description>Recent content in The #SketchTheDocs Project on SketchTheDocs - Visual Storytelling &amp; Tech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Jun 2021 18:23:13 -0400</lastBuildDate><atom:link href="https://blog.sketchthedocs.dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Jun 2021 18:23:13 -0400</lastBuildDate><atom:link href="https://sketchthedocs.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
-      <link>https://blog.sketchthedocs.dev/about/</link>
+      <title>Timeline</title>
+      <link>https://sketchthedocs.dev/activity/</link>
+      <pubDate>Sun, 27 Jun 2021 22:30:39 -0400</pubDate>
+      
+      <guid>https://sketchthedocs.dev/activity/</guid>
+      <description>Table Of Contents  Articles &amp;gt; Blogs &amp;amp; Publications Tweets &amp;gt; SketchTheDocs Videos &amp;gt; HelloWorld #ABSee   ARTICLES  Jun 27, 2021 - (Site) SketchTheDocs.dev launched Jun 23, 2021 - (Blog) Visual Guide: Computer Vision, dev.to Jun 22, 2021 - (Blog) Visual Guide: Computer Vision, A Cloud Guru Jun 10, 2021 - (Site) Hello World #ABSee launched Jun 08, 2021 - (Logo) #JulyOT Blog, Tech Community May 24, 2021 - (Blog) Visual Guide: Azure Data Factory, dev.</description>
+    </item>
+    
+    <item>
+      <title>About This Project</title>
+      <link>https://sketchthedocs.dev/about/</link>
       <pubDate>Sun, 27 Jun 2021 18:23:08 -0400</pubDate>
       
-      <guid>https://blog.sketchthedocs.dev/about/</guid>
-      <description></description>
+      <guid>https://sketchthedocs.dev/about/</guid>
+      <description>@SketchTheDocs is a project to explore visual storytelling as a tool to learn, and teach, complex technology concepts. I&amp;rsquo;m motivated by two stats:
+ 65% of humans are visual learners. We absorb information by sight, detecting patterns and making connections that can improve our retention and recall of what we learn. One third of students are visual-spatial learners. We think in pictures, and can learn better when we see &amp;ldquo;the big picture&amp;rdquo; (concept or workflow) before we dive into the details.</description>
     </item>
     
     <item>
       <title>Hello World</title>
-      <link>https://blog.sketchthedocs.dev/hello-world/</link>
+      <link>https://sketchthedocs.dev/hello-world/</link>
       <pubDate>Sun, 27 Jun 2021 18:22:52 -0400</pubDate>
       
-      <guid>https://blog.sketchthedocs.dev/hello-world/</guid>
-      <description></description>
+      <guid>https://sketchthedocs.dev/hello-world/</guid>
+      <description>Test Test Test </description>
     </item>
     
   </channel>
