@@ -27,12 +27,12 @@ A visual storytelling toolkit can include many skills like:
 
 Projects have a core objective, and a body of work that explores the value of visual storytelling techniques in service of that objective. The project name is linked to a blog tag tracks the related plans and progress.
 
- * [#VisualizeIT](tags/visualize-it) | _Objective: Build visual storytelling skills_. Help others learn to sketch & build visual storytelling toolkits through talks and workshops.
+ * [#VisualizeIT](/tags/visualize-it) | _Objective: Build visual storytelling skills_. Help others learn to sketch & build visual storytelling toolkits through talks and workshops.
 
- * [#ABSee](tags/ab-see) | _Objective: Explore Game-Based Learning_. Use visual puzzles to build awareness & improve recall of tech concepts, names and terms.
+ * [#ABSee](/tags/ab-see) | _Objective: Explore Game-Based Learning_. Use visual puzzles to build awareness & improve recall of tech concepts, names and terms.
 
- * [#VisualGreenTech](tags/green-tech) | _Objective: Build sustainability IQ_. Grow understanding of sustainability principles and resources with visual campaigns, guides.
+ * [#VisualGreenTech](/tags/green-tech) | _Objective: Build sustainability IQ_. Grow understanding of sustainability principles and resources with visual campaigns, guides.
 
- * [#VisualGuides](tags/visual-guides) | _Objective: Create illustrated Study Guides_. Create hi-res "big picture" visual summaries of learning resources or documentation.
+ * [#VisualGuides](/tags/visual-guides) | _Objective: Create illustrated Study Guides_. Create hi-res "big picture" visual summaries of learning resources or documentation.
 
- * [#Visua11y](tags/visua11y) | _Objective: Accessibility for Visual Storytelling_. Explore ways to make visual content inclusive to people with a visual disability.
+ * [#Visua11y](/tags/visua11y) | _Objective: Accessibility for Visual Storytelling_. Explore ways to make visual content inclusive to people with a visual disability.
