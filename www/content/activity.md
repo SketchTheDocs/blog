@@ -17,6 +17,7 @@ toc: true
 
 ### 1 | Articles
 
+ * **Jul 22, 2021** - Site | [Illustrated Guide to Fusion Dev](https://sketchthedocs.github.io/ig-fusion-dev/)
  * **Jul 20, 2021** - [Visual Guide: Fusion Development](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/an-illustrated-guide-to-fusion-development/ba-p/2567146)
  * **Jul 12, 2021** - Interstitials | [Azure Functions Event](https://dev.to/nitya/series/13728)
  * **Jul 09, 2021** - _Series_ | [IOT For Beginners](https://github.com/microsoft/IoT-For-Beginners)
