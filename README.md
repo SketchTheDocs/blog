@@ -1,6 +1,6 @@
 # SketchTheDocs
 
-The _SketchTheDocs_ initiative is about exploring visual storytelling for tech from two perspectives:
+The _SketchTheDocs_ initiative is about exploring visual storytelling for tech from two perspectives.
 
  * #VisualizeIT = talks and workshops where you `Learn To Sketch`
  * #SketchTheDocs = content and tools where you `Sketch To Learn`
